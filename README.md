@@ -1,4 +1,4 @@
-# AWS-Data-Warehouse-using-S3-Redshift-
+
 # 🚀 Cloud Sales Data Warehouse using AWS
 
 ## 📌 Project Overview
