@@ -41,7 +41,7 @@ Raw sales data is ingested, transformed, and modeled into a structured format fo
 
 ## 🔄 Data Processing Steps
 1. Loaded raw CSV data into **Amazon S3**
-2. Used **COPY command** to ingest data into Redshift staging table
+2. Ingest data into Redshift staging table
 3. Cleaned data:
    - Removed duplicates
    - Handled missing values
