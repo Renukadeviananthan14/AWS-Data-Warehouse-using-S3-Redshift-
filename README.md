@@ -9,7 +9,7 @@ Raw sales data is ingested, transformed, and modeled into a structured format fo
 
 ## 🏗️ Architecture
 - Raw Data Storage → Amazon S3  
-- Data Ingestion → Amazon Redshift (COPY command)  
+- Data Ingestion → Amazon Redshift 
 - Staging Layer → Raw data processing  
 - Transformation Layer → Data cleaning & deduplication  
 - Data Model → Star Schema (Fact & Dimension tables)  
